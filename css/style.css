@@ -1,0 +1,33 @@
+#main{
+  text-align:center;
+  width: 800px;
+  background-color: black;
+  height: 500px;
+
+}
+
+.fifty {
+  width: 50px;
+  display: inline-block;
+  height: 50px;
+  background-color: red;
+  vertical-align: bottom;
+  float: left;
+}
+
+.orange{
+  background-color: #FF6600;
+}
+
+.black {
+  background-color: black;
+}
+
+.pink {
+  background-color: #FF6666;
+}
+
+.yellow{
+  background-color: #CCA300;
+}
+
