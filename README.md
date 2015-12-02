@@ -8,3 +8,4 @@ Don't you love a good city skyline with a fiery orange backdrop? You can't deny 
 ## Get Started
 
 Your job is to build a city skyline with a sunset background using everything you know about the box model. It might be helpful to think about dividing the screen up into a series of bite-sized divs to style accordingly.
+<a href='https://learn.co/lessons/hs-intro-web-design-sunset-skyline-code-challenge' data-visibility='hidden'>View this lesson on Learn.co</a>
